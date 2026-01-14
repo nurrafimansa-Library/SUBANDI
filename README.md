@@ -1,6 +1,6 @@
 # SUBANDI
 <p align="center">
-  <img src='SUBANDI LOGO.png'width=300>
+  <img src='LOGO SUBANDI.png'width=300>
 </p>
 
 ## 📰 Overview
