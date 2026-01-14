@@ -21,7 +21,7 @@
 4. 1x GPS Module
 5. 5x LED (Putih, Biru, Merah, Kuning, Hijau)
 6. 5x Resistor
-7. 23x male/male jumper cable
+7. ± 23x male/male jumper cable
 8. 1x BreadBoard
 9. 1x USB Cable
 10. 1x Powerbank 9000mAh
